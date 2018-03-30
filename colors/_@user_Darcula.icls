@@ -1,0 +1,11 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2018-03-29T18:26:04</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2018.1.0.0</property>
+    <property name="modified">2018-03-29T19:00:04</property>
+    <property name="originalScheme">Darcula</property>
+    <property name="rainbow Default language">true</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.2" />
+</scheme>
